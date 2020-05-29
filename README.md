@@ -2,7 +2,7 @@
 
 Documentation: https://drive.google.com/file/d/1a3B0XLs3pVZ86XemvcuYY8CiM_S9weFZ/view?usp=sharing
 
-![alt text](https://github.com/mustafaersoyer/Advanced-Android-WebView/blob/master/ENG.jpg?raw=true)
+![alt text](https://github.com/atiartalukdar/Powerfull_Android_Webview)
 
 <b> Features </b>
 
